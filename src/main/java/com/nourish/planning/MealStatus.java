@@ -1,4 +1,2 @@
 package com.nourish.planning;
-
-public class MealStatus {
-}
+public enum MealStatus { SCHEDULED, COMPLETED, SKIPPED }

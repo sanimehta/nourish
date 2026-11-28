@@ -1,4 +1,2 @@
 package com.nourish.planning;
-
-public class PlanStatus {
-}
+public enum PlanStatus { ACTIVE, COMPLETED, ARCHIVED }
