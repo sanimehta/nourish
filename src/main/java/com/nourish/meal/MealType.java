@@ -1,4 +1,2 @@
 package com.nourish.meal;
-
-public class MealType {
-}
+public enum MealType { BREAKFAST, LUNCH, DINNER }
