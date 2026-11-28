@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Overnight Oats with Berries",
+    "mealType": "BREAKFAST",
+    "dietType": "VEGAN",
+    "preparationTime": 5,
+    "calories": 340,
+    "protein": 12,
+    "carbohydrates": 52,
+    "fat": 10,
+    "estimatedCost": 2.0
+  },
+  {
+    "name": "Greek Yogurt Bowl",
+    "mealType": "BREAKFAST",
+    "dietType": "VEGETARIAN",
+    "preparationTime": 5,
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 35,
+    "fat": 12,
+    "estimatedCost": 3.0
+  },
+  {
+    "name": "Veggie Scrambled Eggs on Toast",
+    "mealType": "BREAKFAST",
+    "dietType": "VEGETARIAN",
+    "preparationTime": 12,
+    "calories": 380,
+    "protein": 22,
+    "carbohydrates": 30,
+    "fat": 18,
+    "estimatedCost": 2.75
+  },
+  {
+    "name": "Peanut Butter Banana Toast",
+    "mealType": "BREAKFAST",
+    "dietType": "VEGAN",
+    "preparationTime": 5,
+    "calories": 370,
+    "protein": 12,
+    "carbohydrates": 48,
+    "fat": 15,
+    "estimatedCost": 1.75
+  },
+  {
+    "name": "Turkey Sausage Egg Wrap",
+    "mealType": "BREAKFAST",
+    "dietType": "OMNIVORE",
+    "preparationTime": 15,
+    "calories": 450,
+    "protein": 30,
+    "carbohydrates": 33,
+    "fat": 21,
+    "estimatedCost": 3.75
+  },
+  {
+    "name": "Tofu Scramble Breakfast Burrito",
+    "mealType": "BREAKFAST",
+    "dietType": "VEGAN",
+    "preparationTime": 15,
+    "calories": 420,
+    "protein": 22,
+    "carbohydrates": 50,
+    "fat": 14,
+    "estimatedCost": 3.25
+  },
+  {
+    "name": "Chickpea Salad Sandwich",
+    "mealType": "LUNCH",
+    "dietType": "VEGAN",
+    "preparationTime": 10,
+    "calories": 430,
+    "protein": 17,
+    "carbohydrates": 58,
+    "fat": 14,
+    "estimatedCost": 3.0
+  },
+  {
+    "name": "Lentil Vegetable Soup",
+    "mealType": "LUNCH",
+    "dietType": "VEGAN",
+    "preparationTime": 35,
+    "calories": 380,
+    "protein": 22,
+    "carbohydrates": 60,
+    "fat": 5,
+    "estimatedCost": 2.5
+  },
+  {
+    "name": "Caprese Pasta Salad",
+    "mealType": "LUNCH",
+    "dietType": "VEGETARIAN",
+    "preparationTime": 20,
+    "calories": 520,
+    "protein": 20,
+    "carbohydrates": 62,
+    "fat": 20,
+    "estimatedCost": 4.0
+  },
+  {
+    "name": "Grilled Chicken Rice Bowl",
+    "mealType": "LUNCH",
+    "dietType": "OMNIVORE",
+    "preparationTime": 25,
+    "calories": 540,
+    "protein": 42,
+    "carbohydrates": 60,
+    "fat": 14,
+    "estimatedCost": 5.5
+  },
+  {
+    "name": "Tuna Salad Whole Wheat Wrap",
+    "mealType": "LUNCH",
+    "dietType": "OMNIVORE",
+    "preparationTime": 10,
+    "calories": 460,
+    "protein": 34,
+    "carbohydrates": 40,
+    "fat": 17,
+    "estimatedCost": 4.0
+  },
+  {
+    "name": "Black Bean Burrito Bowl",
+    "mealType": "LUNCH",
+    "dietType": "VEGAN",
+    "preparationTime": 20,
+    "calories": 540,
+    "protein": 20,
+    "carbohydrates": 85,
+    "fat": 12,
+    "estimatedCost": 4.0
+  },
+  {
+    "name": "Tofu Stir Fry with Vegetables",
+    "mealType": "DINNER",
+    "dietType": "VEGAN",
+    "preparationTime": 15,
+    "calories": 500,
+    "protein": 35,
+    "carbohydrates": 45,
+    "fat": 18,
+    "estimatedCost": 5.0
+  },
+  {
+    "name": "Chicken Stir Fry",
+    "mealType": "DINNER",
+    "dietType": "OMNIVORE",
+    "preparationTime": 30,
+    "calories": 460,
+    "protein": 40,
+    "carbohydrates": 38,
+    "fat": 16,
+    "estimatedCost": 5.5
+  },
+  {
+    "name": "Baked Salmon with Quinoa and Broccoli",
+    "mealType": "DINNER",
+    "dietType": "OMNIVORE",
+    "preparationTime": 30,
+    "calories": 590,
+    "protein": 42,
+    "carbohydrates": 40,
+    "fat": 28,
+    "estimatedCost": 8.5
+  },
+  {
+    "name": "Vegetable Chickpea Curry with Rice",
+    "mealType": "DINNER",
+    "dietType": "VEGAN",
+    "preparationTime": 35,
+    "calories": 560,
+    "protein": 18,
+    "carbohydrates": 88,
+    "fat": 14,
+    "estimatedCost": 3.5
+  },
+  {
+    "name": "Spinach and Ricotta Stuffed Shells",
+    "mealType": "DINNER",
+    "dietType": "VEGETARIAN",
+    "preparationTime": 45,
+    "calories": 590,
+    "protein": 28,
+    "carbohydrates": 66,
+    "fat": 22,
+    "estimatedCost": 5.0
+  },
+  {
+    "name": "Beef and Broccoli with Brown Rice",
+    "mealType": "DINNER",
+    "dietType": "OMNIVORE",
+    "preparationTime": 30,
+    "calories": 620,
+    "protein": 40,
+    "carbohydrates": 62,
+    "fat": 22,
+    "estimatedCost": 7.0
+  }
+]
